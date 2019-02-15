@@ -1,10 +1,10 @@
 # autocallin
 Automatically call in to mycallin.com
 
-#To test:
+# To test:
 
     npm run-script testit
 
-#To use:
+# To use:
 
     /path/to/casperjs scraper.js CALLIN_NUMBER LASTNAME YOURID
