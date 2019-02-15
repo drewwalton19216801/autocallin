@@ -1,0 +1,13 @@
+{
+  "name": "autocallinjs",
+  "version": "1.0.0",
+  "author": "Drew Walton <drewwalton19216801@gmail.com>",
+  "main": "scraper.js",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7"
+  },
+  "scripts": {
+    "testit": "./node_modules/.bin/casperjs scraper.js 7202218948 Walton 62953994"
+  }
+}
