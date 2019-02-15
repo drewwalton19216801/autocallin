@@ -9,5 +9,10 @@
   },
   "scripts": {
     "testit": "./node_modules/.bin/casperjs scraper.js 7202218948 Walton 62953994"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drewwalton19216801/autocallin.git"
+  },
+  "homepage": "https://github.com/drewwalton19216801/autocallin"
 }
